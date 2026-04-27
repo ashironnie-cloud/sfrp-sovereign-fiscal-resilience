@@ -1,0 +1,48 @@
+iso3,country_name,region,classification,paper_case_group,case_china_benchmark,case_resilient_sovereign,case_sri_lanka_anchor,case_high_debt_resilient,case_resource_conversion,case_strategic_conversion,case_strategic_transition,case_vulnerability_trap,case_geoeconomic_pressure,case_creditor_conversion,case_reform_case
+USA,United States,North America,High-power high-exposure,high_debt_resilient,0,0,0,1,0,0,0,0,0,0,0
+CAN,Canada,North America,Resilient advanced sovereign,resilient_sovereign,0,1,0,0,0,0,0,0,0,0,0
+BRA,Brazil,Latin America & Caribbean,High-terrain medium-command sovereign,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+CHL,Chile,Latin America & Caribbean,Rule-based commodity-resilience state,resource_conversion,0,0,0,0,1,0,0,0,0,0,0
+MEX,Mexico,Latin America & Caribbean,Strategic transition state,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+DEU,Germany,Europe & Central Asia,Disciplined industrial sovereign under transition,geoeconomic_pressure,0,0,0,0,0,0,0,0,1,0,0
+POL,Poland,Europe & Central Asia,Strategic transition state,geoeconomic_pressure,0,0,0,0,0,0,0,0,1,0,0
+TUR,Türkiye,Europe & Central Asia / MENA bridge,High-terrain high-volatility sovereign,geoeconomic_pressure,0,0,0,0,0,0,0,0,1,0,0
+SAU,Saudi Arabia,Middle East & North Africa,Resource-conversion sovereign,resource_conversion,0,0,0,0,1,0,0,0,0,0,0
+ARE,United Arab Emirates,Middle East & North Africa,Small-state geoeconomic command state,strategic_conversion,0,0,0,0,0,1,0,0,0,0,0
+EGY,Egypt,Middle East & North Africa,Vulnerability-trapped strategic state,vulnerability_trap,0,0,0,0,0,0,0,1,0,0,0
+ZAF,South Africa,Sub-Saharan Africa,High-potential weakened-command sovereign,vulnerability_trap_partial,0,0,0,0,0,0,0,1,0,0,0
+KEN,Kenya,Sub-Saharan Africa,Infrastructure-conversion state under fiscal strain,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+RWA,Rwanda,Sub-Saharan Africa,High-command small-state transition model,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+IND,India,South Asia,High-power strategic transition state,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+LKA,Sri Lanka,South Asia,Applied anchor: failed/recoverable debt conversion,anchor_case,0,0,1,0,0,0,0,0,0,0,0
+BGD,Bangladesh,South Asia,Export-conversion state under transition pressure,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+CHN,China,East Asia & Pacific,Strategic command benchmark,china_benchmark,1,0,0,0,0,0,0,0,0,0,0
+JPN,Japan,East Asia & Pacific,High-debt resilient sovereign,high_debt_resilient,0,0,0,1,0,0,0,0,0,0,0
+IDN,Indonesia,East Asia & Pacific,Terrain-conversion state,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+RUS,Russia,Asia / Eurasia,Sanctions-resilience resource-fortress state,geoeconomic_pressure,0,0,0,0,0,0,0,0,1,0,0
+DNK,Denmark,Europe & Central Asia,Resilient sovereign,resilient_sovereign,0,1,0,0,0,0,0,0,0,0,0
+SWE,Sweden,Europe & Central Asia,Resilient sovereign,resilient_sovereign,0,1,0,0,0,0,0,0,0,0,0
+FIN,Finland,Europe & Central Asia,Resilient sovereign under frontier pressure,resilient_sovereign,0,1,0,0,0,0,0,0,0,0,0
+NOR,Norway,Europe & Central Asia,Resilient sovereign / resource conversion ideal type,resilient_sovereign,0,1,0,0,0,0,0,0,0,0,0
+CHE,Switzerland,Europe & Central Asia,Resilient sovereign,resilient_sovereign,0,1,0,0,0,0,0,0,0,0,0
+ARG,Argentina,Latin America & Caribbean,Repeated fiscal-currency stress case,vulnerability_trap,0,0,0,0,0,0,0,1,0,0,0
+GHA,Ghana,Sub-Saharan Africa,External debt distress case,vulnerability_trap,0,0,0,0,0,0,0,1,0,0,0
+ZMB,Zambia,Sub-Saharan Africa,Commodity-debt restructuring case,vulnerability_trap,0,0,0,0,0,0,0,1,0,0,0
+PAK,Pakistan,South Asia,Recurring balance-of-payments case,vulnerability_trap,0,0,0,0,0,0,0,1,0,0,0
+LBN,Lebanon,Middle East & North Africa,Institutional/banking collapse case,vulnerability_trap_extreme,0,0,0,0,0,0,0,1,0,0,0
+GRC,Greece,Europe & Central Asia,Monetary-union debt-overhang case,vulnerability_trap,0,0,0,0,0,0,0,1,0,0,0
+BLZ,Belize,Latin America & Caribbean,Debt-for-nature conversion case,creditor_conversion,0,0,0,0,0,0,0,0,0,1,0
+BRB,Barbados,Latin America & Caribbean,Blue-bond/debt conversion case,creditor_conversion,0,0,0,0,0,0,0,0,0,1,0
+ECU,Ecuador,Latin America & Caribbean,Debt-for-nature conversion case,creditor_conversion,0,0,0,0,0,0,0,0,0,1,0
+SGP,Singapore,East Asia & Pacific,Small-state strategic reserves/capacity benchmark,strategic_conversion,0,0,0,0,0,1,0,0,0,0,0
+KOR,South Korea,East Asia & Pacific,Developmental-state conversion case,strategic_conversion,0,0,0,0,0,1,0,0,0,0,0
+QAT,Qatar,Middle East & North Africa,Small-state energy/geoeconomic positioning,resource_conversion,0,0,0,0,1,0,0,0,0,0,0
+MDV,Maldives,South Asia,Small-island tourism/debt vulnerability case,vulnerability_trap_partial,0,0,0,0,0,0,0,1,0,0,0
+JAM,Jamaica,Latin America & Caribbean,Debt reform and fiscal rule case,reform_case,0,0,0,0,0,0,0,0,0,0,1
+VNM,Vietnam,East Asia & Pacific,Export-industrial conversion case,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+THA,Thailand,East Asia & Pacific,Tourism/export shock-resilience comparator,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+PHL,Philippines,East Asia & Pacific,Remittance/services resilience comparator,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+MYS,Malaysia,East Asia & Pacific,Commodity-manufacturing mixed model,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+NGA,Nigeria,Sub-Saharan Africa,Oil/revenue conversion stress case,vulnerability_trap_partial,0,0,0,0,0,0,0,1,0,0,0
+CIV,Côte d’Ivoire,Sub-Saharan Africa,High-growth debt/development comparator,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
+ETH,Ethiopia,Sub-Saharan Africa,State-led infrastructure/debt stress comparator,strategic_transition,0,0,0,0,0,0,1,0,0,0,0
