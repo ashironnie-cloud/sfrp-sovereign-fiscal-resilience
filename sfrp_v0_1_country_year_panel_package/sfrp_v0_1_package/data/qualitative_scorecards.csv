@@ -1,0 +1,48 @@
+iso3,country_name,region,paper_case_group,legitimacy_score,weather_buffers_score,terrain_productive_capacity_score,command_state_capacity_score,doctrine_fiscal_framework_score,track_record_score,conversion_capacity_score,resilience_score,scorecard_mean_8,scorecard_status,scorecard_note
+USA,United States,North America,high_debt_resilient,3,4,5,4,3,5,5,4,4.125,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+CAN,Canada,North America,resilient_sovereign,4,4,4,4,4,4,4,4,4.0,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+BRA,Brazil,Latin America & Caribbean,strategic_transition,3,3,5,3,3,3,4,3,3.375,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+CHL,Chile,Latin America & Caribbean,resource_conversion,4,4,4,4,5,4,4,4,4.125,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+MEX,Mexico,Latin America & Caribbean,strategic_transition,3,3,4,3,3,3,4,3,3.25,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+DEU,Germany,Europe & Central Asia,geoeconomic_pressure,4,3,5,4,5,4,4,4,4.125,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+POL,Poland,Europe & Central Asia,geoeconomic_pressure,3,4,4,4,4,4,4,4,3.875,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+TUR,Türkiye,Europe & Central Asia / MENA bridge,geoeconomic_pressure,2,2,4,3,2,2,3,2.5,2.562,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+SAU,Saudi Arabia,Middle East & North Africa,resource_conversion,3,4,5,4,4,3,5,4,4.0,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+ARE,United Arab Emirates,Middle East & North Africa,strategic_conversion,3,4,4,5,5,5,5,5,4.5,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+EGY,Egypt,Middle East & North Africa,vulnerability_trap,2,2,3,3,2,2,2,2,2.25,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+ZAF,South Africa,Sub-Saharan Africa,vulnerability_trap_partial,2,2,4,2,3,2,3,2.5,2.562,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+KEN,Kenya,Sub-Saharan Africa,strategic_transition,2,2,3,3,3,3,3,3,2.75,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+RWA,Rwanda,Sub-Saharan Africa,strategic_transition,3,3,2,5,5,4,4,4,3.75,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+IND,India,South Asia,strategic_transition,3,4,5,4,4,4,5,4,4.125,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+LKA,Sri Lanka,South Asia,anchor_case,2,1,3,2,2,1,2,2,1.875,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+BGD,Bangladesh,South Asia,strategic_transition,3,3,4,3,3,4,4,3.5,3.438,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+CHN,China,East Asia & Pacific,china_benchmark,3,4,5,5,5,5,5,4.5,4.562,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+JPN,Japan,East Asia & Pacific,high_debt_resilient,4,4,4,5,3,5,4,4,4.125,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+IDN,Indonesia,East Asia & Pacific,strategic_transition,3,3,5,3,4,4,4,4,3.75,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+RUS,Russia,Asia / Eurasia,geoeconomic_pressure,2,3,5,3,3,3,3,3,3.125,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+DNK,Denmark,Europe & Central Asia,resilient_sovereign,5,5,4,5,5,5,4,5,4.75,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+SWE,Sweden,Europe & Central Asia,resilient_sovereign,5,4,4,5,5,5,4,5,4.625,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+FIN,Finland,Europe & Central Asia,resilient_sovereign,5,4,3,5,4,5,4,4,4.25,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+NOR,Norway,Europe & Central Asia,resilient_sovereign,5,5,5,5,5,5,5,5,5.0,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+CHE,Switzerland,Europe & Central Asia,resilient_sovereign,5,5,4,5,5,5,4,5,4.75,populated_provisional_v0_1,"Qualitative paper scorecard; use for pilot classification, not final econometric inference."
+ARG,Argentina,Latin America & Caribbean,vulnerability_trap,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+GHA,Ghana,Sub-Saharan Africa,vulnerability_trap,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+ZMB,Zambia,Sub-Saharan Africa,vulnerability_trap,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+PAK,Pakistan,South Asia,vulnerability_trap,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+LBN,Lebanon,Middle East & North Africa,vulnerability_trap_extreme,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+GRC,Greece,Europe & Central Asia,vulnerability_trap,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+BLZ,Belize,Latin America & Caribbean,creditor_conversion,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+BRB,Barbados,Latin America & Caribbean,creditor_conversion,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+ECU,Ecuador,Latin America & Caribbean,creditor_conversion,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+SGP,Singapore,East Asia & Pacific,strategic_conversion,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+KOR,South Korea,East Asia & Pacific,strategic_conversion,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+QAT,Qatar,Middle East & North Africa,resource_conversion,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+MDV,Maldives,South Asia,vulnerability_trap_partial,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+JAM,Jamaica,Latin America & Caribbean,reform_case,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+VNM,Vietnam,East Asia & Pacific,strategic_transition,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+THA,Thailand,East Asia & Pacific,strategic_transition,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+PHL,Philippines,East Asia & Pacific,strategic_transition,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+MYS,Malaysia,East Asia & Pacific,strategic_transition,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+NGA,Nigeria,Sub-Saharan Africa,vulnerability_trap_partial,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+CIV,Côte d’Ivoire,Sub-Saharan Africa,strategic_transition,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
+ETH,Ethiopia,Sub-Saharan Africa,strategic_transition,,,,,,,,,,not_scored_yet,Included as empirical/mechanism case; scorecard to be populated after data ingestion.
